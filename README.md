@@ -1,4 +1,4 @@
-# Named Entity Recognition with Doccano and camembert 🏥 
+# Named Entity Recognition with Doccano and camembert 🧨
 
 ## Introduction 💊
 
